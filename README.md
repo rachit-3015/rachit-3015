@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">In A Journey Towards Software Development</p>
+<h6 align="left">In A Journey Towards Software Development</h6>
 
 ###
 
