@@ -21,8 +21,10 @@
 </div>
 
 ###
-## Connect with me  
+
 <h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit-patel-2619a9252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rachit-patel-2619a9252/" height="30" width="40" /></a>
-</p>
+
+###
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rachit-patel-2619a9252/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
